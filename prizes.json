@@ -1,0 +1,47 @@
+[
+    
+    {
+        "gender": "none",
+        "img": "none",
+        "option": "Try again",
+        "stock": 70
+    },
+    {
+        "option": "Try again",
+        "stock": 9985,
+        "img": "none",
+        "gender": "none"
+    },
+    {
+        "option": "Try again",
+        "stock": 9985,
+        "img": "none",
+        "gender": "none"
+    },
+    {
+        "option": "Sweet Dewali",
+        "stock": 9985,
+        "img": "none",
+        "gender": "fem"
+    },
+    {
+        "option": "Happiness Point",
+        "stock": 9985,
+        "img": "none",
+        "gender": "fem"
+    }
+    ,
+    {
+        "option": "20% off LULU Vouchers",
+        "stock": 10,
+        "img": "none",
+        "gender": "fem"
+    }
+    ,
+    {
+        "option": "AED 100 LULU Vouchers",
+        "stock": 9985,
+        "img": "none",
+        "gender": "fem"
+    }
+]
